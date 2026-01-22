@@ -4,13 +4,15 @@
   box-sizing: border-box;
 }
 html,
-body {
+body,#root {
   height: 100%;
   width: 100%;
 }
+main{
+  height: 100%;
+  width: 100%;
+  background-image: url("https://i.pinimg.com/736x/e1/30/ac/e130ac93e37ec7e0f666ec4a8637f368.jpg");
+}
 body{
     background-color: black;
-}
-h1{
-    color: white;
 }
