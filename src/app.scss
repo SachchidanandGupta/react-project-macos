@@ -11,8 +11,11 @@ body,#root {
 main{
   height: 100%;
   width: 100%;
-  background-image: url("https://i.pinimg.com/736x/e1/30/ac/e130ac93e37ec7e0f666ec4a8637f368.jpg");
+  background-image: url("/mac-os_bg.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
 }
+
 body{
     background-color: black;
 }
